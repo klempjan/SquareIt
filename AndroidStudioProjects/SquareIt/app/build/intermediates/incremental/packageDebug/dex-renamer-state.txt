@@ -1,0 +1,7 @@
+#Sun Nov 26 22:50:05 CET 2017
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\SquareIt\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c6248fe19c06aeb87f80333a8ee3e2fa6b68945a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\User\\AndroidStudioProjects\\SquareIt\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_55141edf1b5356f7d2e54e0349eadab6aac80c99\\classes.dex
+base.1=C\:\\Users\\User\\AndroidStudioProjects\\SquareIt\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_55141edf1b5356f7d2e54e0349eadab6aac80c99
+file.0=C\:\\Users\\User\\AndroidStudioProjects\\SquareIt\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c6248fe19c06aeb87f80333a8ee3e2fa6b68945a\\classes.dex

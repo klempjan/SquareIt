@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="21653118162274"
+    token="-7275046003704077115"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="21108654333854"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\User\AndroidStudioProjects\SquareIt\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="21583927414364"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\User\AndroidStudioProjects\SquareIt\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\User\AndroidStudioProjects\SquareIt\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="21653118162274"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>
